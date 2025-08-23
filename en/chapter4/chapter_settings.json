@@ -1,0 +1,45 @@
+{
+    "jack_phrases": [
+        ["YOUR", " TAKING", " TOO", " LONG  "],
+        ["YOUR", " TAKING", " TOO", " LONG  "],
+        ["YOUR", " TAKING", " TOO", " LONG  "],
+        ["YOUR", "       ", "    ", " LONG  "],
+        ["  LO", "       ", "    ", " NG    "],
+
+        ["YOUR", " TAKING", " TOO", " LONG  "],
+        ["    ", "     IS", "    ", "       "],
+        ["    ", " TAKING", " TOO", " LONG  "],
+
+        ["YOUR", " TAKING", " TOO", " TOO   "],
+        ["    ", "       ", " TOO", " TOO   "],
+        ["YOUR", "       ", " TOO", " TOO   "],
+
+        ["YOUR", " TAKING", " TOO", " LONG  "],
+        ["LONG", " TAKING", " TOO", " LONG  "],
+
+
+        ["YOUR", " TOO", " BRIGHT"]
+    ],
+    
+    
+    "jack_timings": [
+        [0, 13, 27, 37],
+        [0, 13, 27, 37],
+        [0, 13, 27, 37],
+        [0, 0, 30, 30],
+        [0, 0, 5, 5],
+
+        [0, 13, 27, 37],
+        [50, 50, 50, 50],
+        [62, 62, 81, 88],
+
+        [0, 13, 27, 37],
+        [0,  0, 27, 37],
+        [0, 13, 27, 37],
+
+        [0, 13, 27, 37],
+        [30, 39, 53, 63],
+
+        [0, 23, 40]
+    ]
+}
