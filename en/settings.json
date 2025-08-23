@@ -2,7 +2,7 @@
     "name": "English",
     "fonts_range": [32, 128],
     "monospace_fonts": false,
-    "special_mode": false,
+    "special_mode": false, 
     "enable_translated_songs_switch": false,
     "time_zone": 0,
     "translator_mode": true
