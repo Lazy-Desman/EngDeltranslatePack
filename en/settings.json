@@ -5,5 +5,6 @@
     "special_mode": false, 
     "enable_translated_songs_switch": false,
     "time_zone": 0,
-    "translator_mode": true
+    "translator_mode": true,
+    "files_url": "https://raw.githubusercontent.com/Lazy-Desman/EngDeltranslatePack/refs/heads/main/en/"
 }
