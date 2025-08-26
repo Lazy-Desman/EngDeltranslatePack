@@ -1,10 +1,11 @@
 {
     "name": "English",
-    "fonts_range": [32, 128],
+    "description": "Just base english",
+    "link": "",
     "monospace_fonts": false,
-    "special_mode": false, 
+    "special_mode": false,
     "enable_translated_songs_switch": false,
-    "time_zone": 0,
     "translator_mode": true,
+    "line_height_factor": 1,
     "files_url": "https://raw.githubusercontent.com/Lazy-Desman/EngDeltranslatePack/refs/heads/main/en/"
 }
