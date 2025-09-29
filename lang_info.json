@@ -1,5 +1,6 @@
 {
     "name": "English",
     "description": "Just base english",
-    "download_url": "https://github.com/Lazy-Desman/EngDeltranslatePack/releases/download/latest/lang.zip"
+    "download_url": "https://github.com/Lazy-Desman/EngDeltranslatePack/releases/download/latest/lang.zip",
+    "not_public" false
 }
