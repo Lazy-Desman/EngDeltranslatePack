@@ -21,7 +21,7 @@ jobs:
 
       - name: Create "lang.zip" ("fast" compression)
         run: |
-          zip lang.zip ./en -r
+          zip lang.zip . -r
           
       - name: Move "latest" tag to current commit
         run: |
