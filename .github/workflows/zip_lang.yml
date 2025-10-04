@@ -4,7 +4,7 @@ on:
   workflow_dispatch: # Manually
   push:
     paths:
-      - 'en/**'
+      - 'lang/**'
 
 concurrency:
   group: ${{ github.workflow }}
