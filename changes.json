@@ -3,6 +3,11 @@
         "description": "- More updates.",
         "files": []
     },
+    "1.0.5": {
+        "description": "- More updates.",
+        "files": [],
+        "external_update": true
+    },
     "1.0.1": {
         "description": "- Some updates.",
         "files": []
