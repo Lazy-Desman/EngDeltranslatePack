@@ -92,5 +92,5 @@ jobs:
         uses: shogo82148/actions-upload-release-asset@v1
         with:
           upload_url: ${{ steps.get_release.outputs.upload_url }}
-          asset_path: ./lang.zip
+          asset_path: ./lang/lang.zip
           asset_name: lang.zip
