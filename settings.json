@@ -5,7 +5,6 @@
     "monospace_fonts": false,
     "special_mode": false,
     "enable_translated_songs_switch": false,
-    "translator_mode": true,
     "line_height_factor": 1,
-    "files_url": "https://raw.githubusercontent.com/Lazy-Desman/EngDeltranslatePack/refs/heads/main/en/"
+    "files_url": "https://raw.githubusercontent.com/Lazy-Desman/EngDeltranslatePack/refs/heads/main/"
 }
