@@ -6,7 +6,7 @@
     "monospace_fonts": false,
     "special_mode": false,
     "enable_translated_songs_switch": false,
-    "translator_mode": false,
+    "translator_mode": false, 
     "line_height_factor": 1,
     "files_url": "https://raw.githubusercontent.com/Lazy-Desman/EngDeltranslatePack/refs/heads/main/",
     "datas_url": [
