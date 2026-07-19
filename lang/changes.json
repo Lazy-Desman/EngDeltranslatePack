@@ -1,14 +1,6 @@
 {
-    "1.2.0": {
-        "description": "- Changes in menu for new loading thing.",
-        "files": []
-    },
-    "1.1.0": {
-        "description": "- More updates.",
-        "files": []
-    },
-    "1.0.1": {
-        "description": "- Some updates.",
+    "5.0.0": {
+        "description": "- Added Chapter 5 files.",
         "files": []
     }
 }
