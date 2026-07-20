@@ -1,4 +1,9 @@
 {
+    "sprites_settings": {
+        "spr_chapter_insert_prompt_letters": {
+            "frame_num": 40
+        }
+    },
     "translators_credits": [
         [
             {
