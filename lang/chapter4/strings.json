@@ -47,6 +47,8 @@
     "scr_84_name_input_setup_0_2": "UVWXYZ%<%<",
     "scr_84_name_input_setup_1_0": "(B)BACK",
     "scr_84_name_input_setup_2_0": "(E)END",
+    "obj_chapter_continue_slash_Create_0_gml_1_0": "Continue to Chapter ~1",
+    "obj_chapter_continue_slash_Create_0_gml_2_0": "Keep Playing Chapter ~1",
     "scr_windowcaption_0_0": "DELTARUNE Chapter ",
     "obj_lang_settings_1_0": "LANGUAGE CONFIG",
     "obj_lang_settings_2_0": "Return",
