@@ -4,6 +4,17 @@
             "frame_num": 40
         }
     },
+
+    "jack_phrases": [
+        ["YOUR", "       ", "    ", " LONG  "],
+        ["  LO", "       ", "    ", " NG    "]
+    ],
+
+    "jack_timings": [
+        [0, 0, 30, 30],
+        [0, 0, 5, 5]
+    ],
+
     "translators_credits": [
         [
             {

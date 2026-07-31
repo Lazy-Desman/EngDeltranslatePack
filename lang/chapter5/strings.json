@@ -17669,5 +17669,13 @@
     "obj_trashy_trio_slash_Other_22_gml_31_0": "Dialogue#playback",
     "obj_trashy_trio_slash_Create_0_gml_272_0": "I'll show you&the power of&\"something&thrown away!\"/%",
     "obj_trashy_trio_slash_Create_0_gml_273_0": "Trashy... Rush!/%",
-    "obj_trashy_trio_slash_Create_0_gml_308_0": "Because if&you're a throuple,&we'll have to&stop you.../%"
+    "obj_trashy_trio_slash_Create_0_gml_308_0": "Because if&you're a throuple,&we'll have to&stop you.../%",
+    "obj_dw_fcastle_pinkroom_slash_Create_0_gml_115_0": "* (It's a pink bomb. There's a dial on the back.)/",
+    "obj_dw_fcastle_pinkroom_slash_Create_0_gml_116_0": "* (Seems you can alter how mean the bombs are.)/",
+    "obj_dw_fcastle_pinkroom_slash_Create_0_gml_117_0": "Nicer bombs",
+    "obj_dw_fcastle_pinkroom_slash_Create_0_gml_118_0": "Meaner bombs",
+    "obj_dw_fcastle_pinkroom_slash_Create_0_gml_119_0": "Default",
+    "obj_dw_fcastle_pinkroom_slash_Create_0_gml_127_0": "* (The bombs became \"NICE\".)/%",
+    "obj_dw_fcastle_pinkroom_slash_Create_0_gml_136_0": "* (The bombs became \"MEAN\"..^1. maybe other things are mean^1, too.)/%",
+    "obj_dw_fcastle_pinkroom_slash_Create_0_gml_145_0": "* (The bombs were kept on the intended setting.)/%"
 }
